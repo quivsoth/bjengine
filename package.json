@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.4.2"
+    "fs": "^0.0.1-security",
+    "global": "^4.4.0",
+    "jest": "^26.4.2",
+    "js-yaml": "^3.14.0",
+    "nodemon": "^2.0.4"
   }
 }

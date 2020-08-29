@@ -1,0 +1,187 @@
+---
+# Blackjack Rules
+- Hand:
+    PlayerTotal: 4
+    Hit: [2,3,4,5,6,7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 5
+    Hit: [2,3,4,5,6,7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 6
+    Hit: [2,3,4,5,6,7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 7
+    Hit: [2,3,4,5,6,7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 8
+    Hit: [2,3,4,5,6,7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 9
+    Hit: [7,8,9,10,A]
+    Double: [2,3,4,5,6]
+    Split: none
+- Hand:
+    PlayerTotal: 10
+    Hit: [10,A]
+    Double: [2,3,4,5,6,7,8,9]
+    Split: none
+- Hand:
+    PlayerTotal: 11
+    Hit: none
+    Double: [2,3,4,5,6,7,8,9,10,A]
+    Split: none
+- Hand:
+    PlayerTotal: 12
+    Hit: [2,3,7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 13
+    Hit: [7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 14
+    Hit: [7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 15
+    Hit: [7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 16
+    Hit: [7,8,9,10,A]
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 17
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 18
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 19
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 20
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 21
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: A,2
+    Hit: [2,3,4,7,8,9,10,A]
+    Double: [5,6]
+    Split: none
+- Hand:
+    PlayerTotal: A,3
+    Hit: [2,3,4,7,8,9,10,A]
+    Double: [5,6]
+    Split: none
+- Hand:
+    PlayerTotal: A,4
+    Hit: [2,3,7,8,9,10,A]
+    Double: [4,5,6]
+    Split: none
+- Hand:
+    PlayerTotal: A,5
+    Hit: [2,3,7,8,9,10,A]
+    Double: [4,5,6]
+    Split: none
+- Hand:
+    PlayerTotal: A,6
+    Hit: [2,7,8,9,10,A]
+    Double: [3,4,5,6]
+    Split: none
+- Hand:
+    PlayerTotal: A,7
+    Hit: [8,9,10,A]
+    Double: [3,4,5,6]
+    Split: none
+- Hand:
+    PlayerTotal: A,8
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: A,9
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: A,10
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: 2,2
+    Hit: [8,9,10,A]
+    Double: none
+    Split: [2,3,4,5,6,7]
+- Hand:
+    PlayerTotal: 3,3
+    Hit: [8,9,10,A]
+    Double: none
+    Split: [2,3,4,5,6,7]
+- Hand:
+    PlayerTotal: 4,4
+    Hit: [2,3,4,7,8,9,10,A]
+    Double: none
+    Split: [5,6]
+- Hand:
+    PlayerTotal: 5,5
+    Hit: [10,A]
+    Double: [2,3,4,5,6,7,8,9]
+    Split: none
+- Hand:
+    PlayerTotal: 6,6
+    Hit: [7,8,9,10,A]
+    Double: none
+    Split: [2,3,4,5,6,7]
+- Hand:
+    PlayerTotal: 7,7
+    Hit: [9,10,A]
+    Double: none
+    Split: [2,3,4,5,6,7,8]
+- Hand:
+    PlayerTotal: 8,8
+    Hit: none
+    Double: none
+    Split: [2,3,4,5,6,7,8,9,10,A]
+- Hand:
+    PlayerTotal: 9,9
+    Hit: none
+    Double: none
+    Split: [2,3,4,5,6,8,9]
+- Hand:
+    PlayerTotal: 10,10
+    Hit: none
+    Double: none
+    Split: none
+- Hand:
+    PlayerTotal: A,A
+    Hit: none
+    Double: none
+    Split: [2,3,4,5,6,7,8,9,10,A]

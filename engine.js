@@ -29,7 +29,7 @@ const engine = () => {
 	}
 	var deck = MultiShuffle();
 	const isNanOrZero = n => isNaN(n) ? 0 : n
-	const rules = yaml.safeLoad(fs.readFileSync("./bll/blackjackRules.yml", "utf8"));
+	const rules = yaml.safeLoad(fs.readFileSync("./blackjackRules.yml", "utf8"));
 	const tally = (cards) => { return cards.map(item => item.cardValue).reduce((a, b) => a + b); }
 
 	const AutoRun = (cards, dealerCard) => {
@@ -215,5 +215,5 @@ const engine = () => {
 		console.log(e);
 	}
 }
-// blackjackRules();
+engine();
 module.exports = engine;

@@ -75,7 +75,7 @@ const EvalPlayerHand = (playingHand, dealerCard) => {
 	const shouldDouble = hitOption[0].Hand.Double.indexOf(dealerCard);
 	const shouldSplit = hitOption[0].Hand.Split.indexOf(dealerCard);
 	const shouldHit = hitOption[0].Hand.Hit.indexOf(dealerCard);
-	cardTally = tally(playingHand.cards[0]);				//Need to recheck this after splitting
+	cardTally = tally(playingHand.cards[0]);				// Need to recheck this after splitting
 	if (shouldDouble >= 0) playingHand.outcome = "D";		// D means double
 	else if (shouldSplit >= 0) playingHand.outcome = "S";	// S means split
 	//else if (shouldHit >= 0) AutoRun(sorted, dealerCard);
@@ -170,10 +170,6 @@ const RunDealer = (hand, soft17) => {
 const RunTheDeck = (player, dealer) => {
 	let playerResult = EvalPlayerHand(player.hand[0], dealer.hand.cards[0][0].cardValue);
 	if((playerResult.outcome == "B") || (playerResult.outcome == "BJ") || (playerResult.outcome == "F")) EvaluateAgainstDealer(playerResult)
-	else if(playerResult.outcome == "H") {
-		AutoRun(player.hand[0].cards[0], dealer.hand.cards[0][0].cardValue);
-		EvaluateAgainstDealer(playerResult)
-	}
 	else if (playerResult.outcome == "S") {
 		const isTwoAces = (playerResult.cards[0][0].cardFace == "Ace" && playerResult.cards[0][1].cardFace == "Ace") ? true : false;
 		player.hand[1] = { cards: [], outcome: "", result: "", bet: 1200 };
@@ -189,6 +185,10 @@ const RunTheDeck = (player, dealer) => {
 		//playerResult.outcome = tally(playerResult.cards[0]);
 		EvaluateAgainstDealer(playerResult);
 	 } else if (playerResult.outcome == "S") { }
+	 else if(playerResult.outcome == "H") {
+		AutoRun(player.hand[0].cards[0], dealer.hand.cards[0][0].cardValue);
+		EvaluateAgainstDealer(playerResult)
+	}
 	else console.log("ERROR: no outcome found : " + playerResult.outcome)
 	return;
 }

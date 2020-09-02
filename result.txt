@@ -1,0 +1,502 @@
+[
+    {
+        "shoeId": 0,
+        "handId": 2,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 18,
+        "playerCards": "10s,Jc",
+        "dealerTotalCards": "4s,Ac,3h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 3,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 12,
+        "dealerHand": 18,
+        "playerCards": "2s,4h,6c",
+        "dealerTotalCards": "4c,6d,8h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 4,
+        "outcome": "F",
+        "result": "W",
+        "playerHand": 15,
+        "dealerHand": 23,
+        "playerCards": "5d,Qd",
+        "dealerTotalCards": "5h,Js,8s"
+    },
+    {
+        "shoeId": 0,
+        "handId": 5,
+        "outcome": "H",
+        "result": "W",
+        "playerHand": 18,
+        "dealerHand": 26,
+        "playerCards": "Ad,7s",
+        "dealerTotalCards": "10d,3d,As,2h,Jh"
+    },
+    {
+        "shoeId": 0,
+        "handId": 6,
+        "outcome": "H",
+        "result": "W",
+        "playerHand": 24,
+        "dealerHand": 24,
+        "playerCards": "Ks,4d,Qc",
+        "dealerTotalCards": "7d,8c,9d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 7,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 19,
+        "playerCards": "10h,10c",
+        "dealerTotalCards": "9h,Qs"
+    },
+    {
+        "shoeId": 0,
+        "handId": 8,
+        "outcome": "D",
+        "result": "L",
+        "playerHand": 10,
+        "dealerHand": 20,
+        "playerCards": "3s,7c",
+        "dealerTotalCards": "3c,9c,8d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 9,
+        "outcome": "D",
+        "result": "L",
+        "playerHand": 9,
+        "dealerHand": 20,
+        "playerCards": "2c,7h",
+        "dealerTotalCards": "3c,9c,8d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 10,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": "A9",
+        "dealerHand": 17,
+        "playerCards": "Ah,9s",
+        "dealerTotalCards": "Kd,2d,5s"
+    },
+    {
+        "shoeId": 0,
+        "handId": 11,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 21,
+        "playerCards": "Kh,Jd",
+        "dealerTotalCards": "Qh,5c,6h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 12,
+        "outcome": "F",
+        "result": "W",
+        "playerHand": 18,
+        "dealerHand": 22,
+        "playerCards": "Kc,8s",
+        "dealerTotalCards": "Kc,6s,6h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 13,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": "A9",
+        "dealerHand": 20,
+        "playerCards": "Ah,9c",
+        "dealerTotalCards": "Jc,3s,7c"
+    },
+    {
+        "shoeId": 0,
+        "handId": 14,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 18,
+        "dealerHand": 20,
+        "playerCards": "8h,10s",
+        "dealerTotalCards": "4h,Ac,5d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 15,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 21,
+        "dealerHand": 19,
+        "playerCards": "2d,4d,Kd,5h",
+        "dealerTotalCards": "9h,6c,4c"
+    },
+    {
+        "shoeId": 0,
+        "handId": 16,
+        "outcome": "D",
+        "result": "L",
+        "playerHand": "A38",
+        "dealerHand": 18,
+        "playerCards": "Ad,3h,8c",
+        "dealerTotalCards": "5c,7h,6d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 17,
+        "outcome": "H",
+        "result": "W",
+        "playerHand": 10,
+        "dealerHand": 25,
+        "playerCards": "3d,2s,5s",
+        "dealerTotalCards": "8d,7d,Qd"
+    },
+    {
+        "shoeId": 0,
+        "handId": 18,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 17,
+        "dealerHand": 21,
+        "playerCards": "As,6s",
+        "dealerTotalCards": "2h,10d,9s"
+    },
+    {
+        "shoeId": 0,
+        "handId": 19,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 19,
+        "playerCards": "Ks,Qc",
+        "dealerTotalCards": "7s,3c,9d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 20,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 20,
+        "playerCards": "Js,10c",
+        "dealerTotalCards": "Qs,Jh"
+    },
+    {
+        "shoeId": 0,
+        "handId": 21,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 20,
+        "playerCards": "10h,Qh",
+        "dealerTotalCards": "Kh,Jd"
+    },
+    {
+        "shoeId": 0,
+        "handId": 22,
+        "outcome": "H",
+        "result": "W",
+        "playerHand": 16,
+        "dealerHand": 26,
+        "playerCards": "7s,5h,4c",
+        "dealerTotalCards": "2c,4s,Jc,Kd"
+    },
+    {
+        "shoeId": 0,
+        "handId": 23,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 17,
+        "dealerHand": 17,
+        "playerCards": "Ks,7h",
+        "dealerTotalCards": "7c,2s,2c,4s,2h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 24,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 13,
+        "dealerHand": 19,
+        "playerCards": "9c,4d",
+        "dealerTotalCards": "3d,8s,8d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 25,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 21,
+        "playerCards": "Qh,10c",
+        "dealerTotalCards": "Jd,As"
+    },
+    {
+        "shoeId": 0,
+        "handId": 26,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 18,
+        "dealerHand": 21,
+        "playerCards": "8h,Qd",
+        "dealerTotalCards": "5s,6c,Jh"
+    },
+    {
+        "shoeId": 0,
+        "handId": 27,
+        "outcome": "BJ",
+        "result": "W",
+        "playerHand": "A10",
+        "dealerHand": 13,
+        "playerCards": "Ad,10h",
+        "dealerTotalCards": "3h,Kc"
+    },
+    {
+        "shoeId": 0,
+        "handId": 28,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 24,
+        "dealerHand": 19,
+        "playerCards": "6s,8c,Js",
+        "dealerTotalCards": "Kh,9s"
+    },
+    {
+        "shoeId": 0,
+        "handId": 29,
+        "outcome": "BJ",
+        "result": "W",
+        "playerHand": "A10",
+        "dealerHand": 12,
+        "playerCards": "Ah,Qc",
+        "dealerTotalCards": "3s,9h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 30,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 22,
+        "dealerHand": 20,
+        "playerCards": "3c,9d,Qs",
+        "dealerTotalCards": "2d,10s,Ac,7d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 31,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 16,
+        "dealerHand": 20,
+        "playerCards": "10d,6h",
+        "dealerTotalCards": "6d,5d,5c,4h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 32,
+        "outcome": "D",
+        "result": "W",
+        "playerHand": "9A",
+        "dealerHand": 25,
+        "playerCards": "7s,2h,Ac",
+        "dealerTotalCards": "4h,Ad,7c,As,2d,Kc"
+    },
+    {
+        "shoeId": 0,
+        "handId": 33,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 18,
+        "dealerHand": 21,
+        "playerCards": "Qd,8d",
+        "dealerTotalCards": "9h,3h,9c"
+    },
+    {
+        "shoeId": 0,
+        "handId": 34,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 15,
+        "dealerHand": 21,
+        "playerCards": "7h,8h",
+        "dealerTotalCards": "9h,3h,9c"
+    },
+    {
+        "shoeId": 0,
+        "handId": 35,
+        "outcome": "F",
+        "result": "W",
+        "playerHand": 17,
+        "dealerHand": 23,
+        "playerCards": "7d,10s",
+        "dealerTotalCards": "8s,5s,Kh"
+    },
+    {
+        "shoeId": 0,
+        "handId": 36,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 19,
+        "playerCards": "10c,Qc",
+        "dealerTotalCards": "Jh,3d,3s,3c"
+    },
+    {
+        "shoeId": 0,
+        "handId": 37,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 20,
+        "playerCards": "10d,Kd",
+        "dealerTotalCards": "Js,Jd"
+    },
+    {
+        "shoeId": 0,
+        "handId": 38,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 14,
+        "dealerHand": 18,
+        "playerCards": "8c,6h",
+        "dealerTotalCards": "4d,4s,Ks"
+    },
+    {
+        "shoeId": 0,
+        "handId": 39,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 20,
+        "playerCards": "Jc,10h",
+        "dealerTotalCards": "6s,5h,9d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 40,
+        "outcome": "BJ",
+        "result": "W",
+        "playerHand": "A10",
+        "dealerHand": 11,
+        "playerCards": "Ah,Qs",
+        "dealerTotalCards": "6c,5d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 41,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 12,
+        "dealerHand": 18,
+        "playerCards": "2c,Qh",
+        "dealerTotalCards": "5c,4c,9s"
+    },
+    {
+        "shoeId": 0,
+        "handId": 42,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 21,
+        "playerCards": "Qc,Qs",
+        "dealerTotalCards": "6d,2s,3d,10d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 43,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 22,
+        "dealerHand": 20,
+        "playerCards": "5d,Kc,7d",
+        "dealerTotalCards": "10c,Ks"
+    },
+    {
+        "shoeId": 0,
+        "handId": 44,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 19,
+        "dealerHand": 21,
+        "playerCards": "9s,Qh",
+        "dealerTotalCards": "4h,6d,2d,9d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 45,
+        "outcome": "BJ",
+        "result": "P",
+        "playerHand": "A10",
+        "dealerHand": "A10",
+        "playerCards": "Ah,Jd",
+        "dealerTotalCards": "Ad,Kh"
+    },
+    {
+        "shoeId": 0,
+        "handId": 46,
+        "outcome": "H",
+        "result": "W",
+        "playerHand": 17,
+        "dealerHand": 24,
+        "playerCards": "4s,Qd,3h",
+        "dealerTotalCards": "8s,2s,4c,10s"
+    },
+    {
+        "shoeId": 0,
+        "handId": 47,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 13,
+        "dealerHand": 21,
+        "playerCards": "5s,2c,6s",
+        "dealerTotalCards": "4d,6h,2h,As,8h"
+    },
+    {
+        "shoeId": 0,
+        "handId": 48,
+        "outcome": "F",
+        "result": "L",
+        "playerHand": 16,
+        "dealerHand": 20,
+        "playerCards": "6c,Kd",
+        "dealerTotalCards": "3c,9c,8c"
+    },
+    {
+        "shoeId": 0,
+        "handId": 49,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 18,
+        "dealerHand": 17,
+        "playerCards": "Ac,3s,9h,5c",
+        "dealerTotalCards": "7h,Jh"
+    },
+    {
+        "shoeId": 0,
+        "handId": 50,
+        "outcome": "F",
+        "result": "W",
+        "playerHand": 17,
+        "dealerHand": 23,
+        "playerCards": "Jc,7c",
+        "dealerTotalCards": "Js,5h,8d"
+    },
+    {
+        "shoeId": 0,
+        "handId": 51,
+        "outcome": "H",
+        "result": "L",
+        "playerHand": 20,
+        "dealerHand": 17,
+        "playerCards": "10c,4h,6c",
+        "dealerTotalCards": "7s,10h"
+    }
+]
